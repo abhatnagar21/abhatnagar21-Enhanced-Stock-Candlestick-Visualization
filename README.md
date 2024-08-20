@@ -1,9 +1,9 @@
-This project uses Python to download, analyze, and visualize stock data for Apple Inc. (AAPL) using various technical indicators. The visualizations include candlestick charts with moving averages, Bollinger Bands, VWAP (Volume Weighted Average Price), and highlighted date ranges. The final charts are styled using Plotly in dark mode.
+This project uses Python to download, analyze, and visualize stock data for Tata Consultancy Services (TCS) using various technical indicators. The visualizations include candlestick charts with moving averages, Bollinger Bands, VWAP (Volume Weighted Average Price), and highlighted date ranges. The final charts are styled using Plotly in dark mode.
 
 ## Project Overview
 
 1. **Data Download**: 
-   - Downloads historical stock data for AAPL from Yahoo Finance from January 1, 2023, to October 1, 2023.
+   - Downloads historical stock data for TCS from Yahoo Finance from January 1, 2023, to October 1, 2023.
 
 2. **Technical Indicators**:
    - **Moving Averages**: Calculates and plots 20-day and 50-day Simple Moving Averages (SMA).
